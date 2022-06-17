@@ -1,0 +1,33 @@
+.user{
+    height: 80%;
+    width: 60%;
+    border-radius: 100%;
+    margin: 10%;
+}
+.photo{
+    height: 80%;
+    width: 90%;
+    border-radius: 5%;
+    margin: 4%;
+}
+
+.cardStyle{
+    height: 100%;
+    width: 80%;
+    border-radius: 5%;
+    background-color: aqua;
+    margin: 3%;
+}
+.doughnuts {
+    text-align: center;
+    align-items: center;
+}
+
+.text {
+    text-align: left;
+    align-items: center;
+    margin-left: 2;
+    margin: 5%;
+    padding: 10%,
+
+}
